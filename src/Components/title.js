@@ -1,9 +1,10 @@
 import React from 'react';
 import Typing from 'react-typing-animation';
+import './myStyles.css';
 
 class Title extends React.Component {
   render() {
-    return <Typing>Deal Grabber</Typing>;
+    return <h1 class='size'>DealGrabber</h1>;
   }
 }
 
