@@ -1,5 +1,6 @@
 
-DEAL GRABBER == Web Application that allows users to find the best prices on a specific item
+== DEAL GRABBER == 
+Application that allows the user to search for any given product and is able to view the best prices currently availiable on the market
 
 
 
