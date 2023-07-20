@@ -3,9 +3,6 @@
 Application that allows the user to search for any given product and is able to view the best prices currently availiable on the market
 
 
-
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
